@@ -1,0 +1,16 @@
+{
+  "name": "concurrent-processes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "manual-threads-resuming/gui/main.js",
+  "scripts": {
+    "manual-threads": "electron ./manual-threads-resuming/gui/main.js",
+    "async-threads": "electron ./asynchronous-usage/gui/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.5"
+  }
+}
