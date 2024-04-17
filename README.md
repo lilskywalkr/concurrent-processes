@@ -1,4 +1,4 @@
-## concurrent-processes in Node.js
+# concurrent-processes in Node.js
 
 First install Node.js and run this in the console
 
@@ -8,23 +8,23 @@ First install Node.js and run this in the console
 
 this will install all the necessary packages for gui `thread control`. In the root folder run this commands for:
 
-* first-thread
+## first-thread
 ```bash
     node ./first-thread/first-thread
 ```
 
-* manual-threads-resuming
+## manual-threads-resuming
 ```bash
     npm run manual-threads
 ```
 
-* synchronous-usage
+## synchronous-usage
 ```bash
     cd synchronous-usage
     node workers
 ```
 
-* asynchronous-usage
+## asynchronous-usage
 ```bash
     npm run async-threads
 ```
