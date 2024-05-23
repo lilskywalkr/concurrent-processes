@@ -6,7 +6,7 @@ First install Node.js and run this in the console
 npm run install
 ```
 
-this will install all the necessary packages for gui `thread control`. In the root folder run this commands for:
+this will install all the necessary packages for gui `thread control`. In the root folder run these commands for:
 
 ## first-thread
 ```bash
