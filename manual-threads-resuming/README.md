@@ -60,3 +60,6 @@ This project demonstrates how to manually pause and resume worker threads throug
 
 Example screenshots of the UI:
 
+![electron](https://github.com/user-attachments/assets/7a58253f-1fd0-44a7-a507-7c65340efe27)
+![terminal](https://github.com/user-attachments/assets/e85b874a-d999-4732-8d13-150a7157891c)
+
