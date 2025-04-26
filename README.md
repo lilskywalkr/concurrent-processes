@@ -3,28 +3,28 @@
 First install Node.js and run this in the console
 
 ```bash
-  npm run install
+npm run install
 ```
 
-this will install all the necessary packages for gui `thread control`. In the root folder run this commands for:
+this will install all the necessary packages for gui `thread control`. In the root folder run these commands for:
 
 ## first-thread
 ```bash
-    node ./first-thread/first-thread
+node ./first-thread/first-thread
 ```
 
 ## manual-threads-resuming
 ```bash
-    npm run manual-threads
+npm run manual-threads
 ```
 
 ## synchronous-usage
 ```bash
-    cd synchronous-usage
-    node workers
+cd synchronous-usage
+node workers
 ```
 
 ## asynchronous-usage
 ```bash
-    npm run async-threads
+npm run async-threads
 ```
