@@ -63,5 +63,3 @@ This repository demonstrates concurrent processing in Node.js with the following
 ### 5. **Electron's IPC (Inter-Process Communication)**
 🔹 Used to communicate between the main Electron process and the renderer process (the GUI). IPC enables communication for thread control such as start, pause, and stop.
 
----
-
